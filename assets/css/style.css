@@ -446,7 +446,7 @@ p.caption-descr a
 }
 .navbar .brand
 {	max-height: 60px;}
-.navbar .brand span{font-size:200%; padding-top:30px; padding-left:10px;display:inline-block; color:#0c559c; font-weight: bold;}
+.navbar .brand span{font-size:170%; padding-top:30px; padding-left:10px;display:inline-block; color:#0c559c; font-weight: bold;}
 
 .nav-reaction
 {
@@ -694,14 +694,14 @@ p.caption-descr a
 }
 .navbar .nav > li > a
 {
-	color: #2790B0;
+	color: #0c559c;
 	font-weight: 400;
 	text-shadow: none;
 	text-transform: uppercase;
 }
 .navbar .nav > li > a:hover, .navbar .nav > li > a:hover, .navbar .nav >.sfHover > a
 {
-	background: #2790B0;
+	background: #0c559c;
 	color: #fff;
 	text-shadow: none;
 }
